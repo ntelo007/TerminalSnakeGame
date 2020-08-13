@@ -1,6 +1,5 @@
 
 # TerminalSnakeGame
-=====
 
 A simple terminal based snake game written in Python 3 with curses. Uses arrow keys to move around.
 
